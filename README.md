@@ -6,14 +6,13 @@
 
 **Solution:** We developed SA-IoTDG, a novel, situation-aware IoT data generation framework specifically designed for the performance evaluation of IoT middleware platforms. Recognizing that most IoT applications are event or situation-driven, SA-IoTDG leverages a situation-based approach to generate situation-specific data that accurately reflects the application's requirements.
 
-Detailed work can be found here. [Publication](https://www.mdpi.com/1424-8220/23/1/7)
-
 ### Benefits:
 
 * **Researchers and developers**: Generate realistic IoT data for initial testing and performance evaluation of their applications before real-world deployment.
 * **Reduced risk and cost:** Identify potential performance bottlenecks and issues in the chosen middleware platform early on, saving time and resources.
 * **Improved application quality:** Optimize and refine IoT applications based on data-driven insights from performance evaluations.
 
+Detailed work can be found here. [Publication](https://www.mdpi.com/1424-8220/23/1/7)
 
 ## [PROJECT 2: Bicycle Lane Detection](https://github.com/ShalmolyMondal/bicycle-lane-detector)
 
