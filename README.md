@@ -1,6 +1,6 @@
 # Project Portfolio
 
-## PROJECT 1: Data generation for IoT applications based on situations
+## [PROJECT 1: Data generation for IoT applications based on situations](https://github.com/ShalmolyMondal/SA-IoTDG)
 
 **Problem:** As the number of IoT applications across diverse sectors like manufacturing and healthcare explodes, so does the demand for effective testing and analysis of the platforms hosting them. While proven methods exist for traditional databases and large-scale data environments, existing tools fall short of evaluating IoT-specific middleware due to the inherent complexity and heterogeneity of IoT applications and their data.
 
