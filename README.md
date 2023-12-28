@@ -6,7 +6,7 @@
 
 **Solution:** We developed SA-IoTDG, a novel, situation-aware IoT data generation framework specifically designed for the performance evaluation of IoT middleware platforms. Recognizing that most IoT applications are event or situation-driven, SA-IoTDG leverages a situation-based approach to generate situation-specific data that accurately reflects the application's requirements.
 
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048](https://www.mdpi.com/1424-8220/23/1/7)
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 ### Benefits:
 
